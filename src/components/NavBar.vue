@@ -23,7 +23,7 @@
           <a class="nav-link" href="#skills" v-smooth-scroll>Compétences</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Expérience</a>
+          <a class="nav-link" href="#portfolio" v-smooth-scroll>Portfolio</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">Contact</a>
