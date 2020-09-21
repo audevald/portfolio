@@ -26,7 +26,7 @@
           <a class="nav-link" href="#portfolio" v-smooth-scroll>Portfolio</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Contact</a>
+          <a class="nav-link" href="#contact" v-smooth-scroll>Contact</a>
         </li>
       </ul>
     </div>
