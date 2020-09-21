@@ -1,5 +1,5 @@
 <template>
-  <div class="container-fluid contact" id="contact">
+  <div class="container-fluid bg-dark text-light contact" id="contact">
     <div class="row">
         <div class="col">
             <span>Denis AUDEVAL</span><br>
