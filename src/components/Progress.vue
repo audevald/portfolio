@@ -1,12 +1,13 @@
 <template>
   <div class="row p-4">
     <div class="col">
-      <span>TEST</span>
-      <div class="progress">
+      <span class="h2">{{ label }}</span>
+      <div class="progress mt-2">
         <div
-          class="progress-bar w-75"
+          class="progress-bar progress-bar-striped bg-success progress-bar-animated"
           role="progressbar"
-          aria-valuenow="75"
+          :style="'width: '+ percent +'%'"
+          :aria-valuenow="percent"
           aria-valuemin="0"
           aria-valuemax="100"
         ></div>
@@ -16,5 +17,7 @@
 </template>
 
 <script>
-export default {};
+export default {
+  props: ['label', 'percent']
+};
 </script>

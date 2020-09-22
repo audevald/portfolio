@@ -1,0 +1,51 @@
+{
+    "languages": [
+        {
+            "id": 1,
+            "label": "HTML",
+            "percent": 100
+        },
+        {
+            "id": 2,
+            "label": "CSS",
+            "percent": 100
+        },
+        {
+            "id": 3,
+            "label": "Javascript",
+            "percent": 90
+        },
+        {
+            "id": 4,
+            "label": "PHP",
+            "percent": 80
+        },
+        {
+            "id": 5,
+            "label": "JAVA SE",
+            "percent": 30
+        }
+    ],
+    "frameworks": [
+        {
+            "id": 1,
+            "label": "Symfony",
+            "percent": 70
+        },
+        {
+            "id": 2,
+            "label": "ReactJS",
+            "percent": 40
+        },
+        {
+            "id": 3,
+            "label": "VueJS",
+            "percent": 70
+        },
+        {
+            "id": 4,
+            "label": "Bootstrap",
+            "percent": 90
+        }
+    ]
+}
