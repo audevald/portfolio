@@ -1,16 +1,16 @@
 <template>
-  <div class="card" style="width: 18rem;">
-    <img src="https://picsum.photos/id/237/200/300" class="card-img-top" />
+  <div class="card shadow" style="width: 18rem;">
     <div class="card-body">
-      <h5 class="card-title">Card title</h5>
+      <h5 class="card-title">{{ title }}</h5>
       <p
         class="card-text"
-      >Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-      <a href="#" class="btn btn-primary">Go somewhere</a>
+      >{{ description }}</p>
     </div>
   </div>
 </template>
 
 <script>
-export default {};
+export default {
+  props: ['title', 'description', 'url']
+};
 </script>
