@@ -14,7 +14,7 @@
         />
       </div>
     </div>
-  </div>  
+  </div>
 </template>
 
 <script>
@@ -37,5 +37,13 @@ export default {
 .portfolio {
   padding-top: 80px;
   padding-bottom: 80px;
+  background-image: linear-gradient(
+      0deg,
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url("../assets/img/background2.jpg");
+  background-size: auto, cover;
+  background-attachment: fixed;
 }
 </style>
