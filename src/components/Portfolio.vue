@@ -7,6 +7,10 @@
           :title="work.title"
           :description="work.description"
           :url="work.url"
+          :idModal="'work' + work.id"
+          :imgUrl="work.imgUrl"
+          :imgUrlSmall="work.imgUrlSmall"
+          :descriptionText="work.descriptionText"
         />
       </div>
     </div>

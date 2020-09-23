@@ -3,17 +3,22 @@
         "id": 1,
         "title": "Mon Cv en ligne",
         "description": "Une description d'un projet",
-        "url": "https://audevald.fr"
+        "descriptionText": "Eiusmod officia officia laborum culpa proident ullamco pariatur dolore. Mollit aliquip exercitation Lorem non sint enim laboris commodo culpa. Enim culpa laboris ea qui pariatur sunt commodo veniam et. Enim exercitation ut ea sint. Lorem elit sint ullamco consectetur id enim. Ex qui ad est aliquip. Dolore consequat proident reprehenderit aute deserunt ex incididunt eu ut aliquip.",
+        "url": "https://audevald.fr",
+        "imgUrl": "cv.png",
+        "imgUrlSmall": "cvSmall.png"
     },
     {
         "id": 2,
         "title": "Application Réservation",
-        "description": "Une description d'un projet",
+        "description": "Une Super description d'un projet",
+        "descriptionText": "Une description complète",
         "url": "https://audevald.fr"
     },
     {
         "id": 3,
         "title": "Un titre",
-        "description": "Une description d'un projet"
+        "description": "Une description Intéressante d'un projet",
+        "descriptionText": "Une description complète"
     }
 ]
