@@ -1,6 +1,6 @@
 <template>
   <nav class="navbar navbar-expand-lg navbar-light bg-light shadow fixed-top">
-    <a class="navbar-brand" href="#">Denis AUDEVAL</a>
+    <a class="navbar-brand" href="/">Denis AUDEVAL</a>
     <button
       class="navbar-toggler"
       type="button"
