@@ -4,7 +4,7 @@ import VueRouter from 'vue-router'
 import VueSmoothScroll from 'vue2-smooth-scroll'
 
 Vue.use(VueSmoothScroll, {
-  duration: 800,
+  duration: 1600,
   updateHistory: false
 })
 Vue.use(VueRouter)
