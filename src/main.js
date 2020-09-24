@@ -11,7 +11,7 @@ Vue.config.productionTip = false
 const router = new VueRouter({
   mode: 'history',
   routes: [
-    { path: '/', component: require('./components/Accueil.vue').default },
+    { path: '/', component: App },
     { path: '*', redirect: '/' }
   ]
 })
