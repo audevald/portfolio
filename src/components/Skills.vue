@@ -1,5 +1,5 @@
 <template>
-  <div class="container-fluid skills bg-dark d-flex align-items-center text-light" id="skills">
+  <div class="container-fluid skills bg-dark d-flex align-items-center text-light pb-5" id="skills">
     <div class="container">
       <div class="row">
         <div class="col-6 text-center">
@@ -36,6 +36,5 @@ export default {
 <style>
 .skills {
   padding-top: 80px;
-  min-height: 100vh;
 }
 </style>
