@@ -20,6 +20,9 @@
           </a>
         </li>
         <li class="nav-item">
+          <a class="nav-link" href="#about" v-smooth-scroll>A propos</a>
+        </li>
+        <li class="nav-item">
           <a class="nav-link" href="#skills" v-smooth-scroll>Compétences</a>
         </li>
         <li class="nav-item">
