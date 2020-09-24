@@ -5,6 +5,7 @@
     <Skills/>
     <Portfolio/>
     <Contact/>
+    <Footer/>
   </div>
 </template>
 
@@ -14,6 +15,7 @@ import Accueil from './components/Accueil.vue'
 import Skills from './components/Skills.vue'
 import Portfolio from './components/Portfolio.vue'
 import Contact from './components/Contact.vue'
+import Footer from './components/Footer.vue'
 
 export default {
   name: "App",
@@ -22,7 +24,8 @@ export default {
     Accueil,
     Skills,
     Portfolio,
-    Contact
+    Contact,
+    Footer
   },
 };
 </script>
