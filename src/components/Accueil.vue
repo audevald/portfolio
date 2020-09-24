@@ -20,10 +20,10 @@ export default {};
   min-height: 100vh;
   background-image: linear-gradient(
       0deg,
-      rgba(0, 0, 0, 0.5),
-      rgba(0, 0, 0, 0.5)
+      rgba(34, 32, 66, 0.5),
+      rgba(34, 32, 66, 0.5)
     ),
-    url("../assets/img/background.jpg");
+    url("../assets/img/background2.jpg");
   background-size: auto, cover;
   background-attachment: fixed;
 }
