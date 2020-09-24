@@ -1,6 +1,7 @@
 <template>
-  <div class="container-fluid skills bg-dark d-flex align-items-center text-light pb-5" id="skills">
+  <div class="container-fluid skills d-flex align-items-center text-light pb-5" id="skills">
     <div class="container">
+      <h1 class="text-center">Mes compétences</h1>
       <div class="row">
         <div class="col-6 text-center">
           <div v-for="skill in skills.languages" :key="skill.id">

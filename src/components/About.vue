@@ -3,7 +3,7 @@
     <div class="container">
       <div class="row">
         <div class="col">
-            <h1 class="text-center text-muted pb-3">A propos de moi</h1>
+            <h1 class="text-center pb-3">A propos de moi</h1>
           <p>{{ about.p1 }}</p>
           <p>{{ about.p2 }}</p>
           <p>{{ about.p3 }}</p>

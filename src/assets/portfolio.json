@@ -2,23 +2,14 @@
     {
         "id": 1,
         "title": "Mon Cv en ligne",
-        "description": "Une description d'un projet",
-        "descriptionText": "Eiusmod officia officia laborum culpa proident ullamco pariatur dolore. Mollit aliquip exercitation Lorem non sint enim laboris commodo culpa. Enim culpa laboris ea qui pariatur sunt commodo veniam et. Enim exercitation ut ea sint. Lorem elit sint ullamco consectetur id enim. Ex qui ad est aliquip. Dolore consequat proident reprehenderit aute deserunt ex incididunt eu ut aliquip.",
-        "url": "https://audevald.fr",
-        "imgUrl": "cv.png",
-        "imgUrlSmall": "cvSmall.png"
+        "description": "Première version de mon cv en ligne.",
+        "descriptionText": "Première version mise en ligne de mon CV que j'ai développé 'from scratch'. Un site vitrine plutôt simpliste développé avec Bootstrap.",
+        "url": "https://audevald.fr"
     },
     {
         "id": 2,
         "title": "Application Réservation",
-        "description": "Une Super description d'un projet",
-        "descriptionText": "Une description complète",
-        "url": "https://audevald.fr"
-    },
-    {
-        "id": 3,
-        "title": "Un titre",
-        "description": "Une description Intéressante d'un projet",
-        "descriptionText": "Une description complète"
+        "description": "Une application de réservation de tables en ligne pour les restaurants.",
+        "descriptionText": "Dans le cadre de ma formation, j'ai développé une application de type PWA (Progressive Web App) perméttant de passer des réservations pour les clients et de les gérer par le biais d'un back office. J'ai développé l'application 'from scratch' en PHP natif avec un framework personnel pour la gestion du CRUD."
     }
 ]

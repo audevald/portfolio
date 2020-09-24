@@ -1,5 +1,5 @@
 <template>
-  <div class="container-fluid bg-dark text-muted pb-5 contact" id="contact">
+  <div class="container-fluid pb-5 contact" id="contact">
     <div class="container">
       <div class="row">
         <div class="col-12 col-sm-6 d-flex align-items-center">
@@ -26,6 +26,8 @@ export default {};
 <style>
 .contact {
   padding-top: 80px;
+  background-color: #19181B;
+  color: #30475e;
 }
 .logo {
   width: 50px;

@@ -1,6 +1,6 @@
 <template>
-  <div class="container-fluid portfolio bg-light" id="portfolio">
-    <h1 class="text-center pb-5 text-muted">Mes réalisations</h1>
+  <div class="container-fluid portfolio" id="portfolio">
+    <h1 class="text-center pb-5">Mes réalisations</h1>
     <div class="row d-flex align-items-center">
       <div class="col mb-5 d-flex justify-content-center" v-for="work in portfolio" :key="work.id">
         <ItemCard

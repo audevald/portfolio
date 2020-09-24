@@ -1,6 +1,6 @@
 <template>
 <div>
-  <div class="card shadow item" style="width: 18rem;" data-toggle="modal" :data-target="'#' + idModal">
+  <div class="card item" style="width: 18rem;" data-toggle="modal" :data-target="'#' + idModal">
     <img :src="require('../assets/img/' + imgUrlSmall)" class="card-img-top img-fluid" v-if="imgUrlSmall">
     <div class="card-body">
       <h5 class="card-title">{{ title }}</h5>
@@ -31,5 +31,9 @@ export default {
 }
 .item:hover {
   transform: scale(1.1);
+}
+.card {
+  background-color:  #19181B;
+  color:  #ececec;
 }
 </style>

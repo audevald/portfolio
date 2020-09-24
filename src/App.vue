@@ -34,4 +34,11 @@ export default {
 </script>
 
 <style>
+h1, h2, h3, h4, h5 {
+  color: #f2a365;
+}
+body {
+  color: #ececec;
+  background-color: #222831;
+}
 </style>

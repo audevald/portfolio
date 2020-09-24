@@ -1,8 +1,8 @@
 <template>
-  <nav class="navbar navbar-expand-lg navbar-light bg-light shadow fixed-top">
+  <nav class="navbar navbar-expand-lg navbar-dark shadow-sm fixed-top">
     <a class="navbar-brand" href="/">Denis AUDEVAL</a>
     <button
-      class="navbar-toggler"
+      class="navbar-toggler text-light"
       type="button"
       data-toggle="collapse"
       data-target="#navbarNav"
@@ -41,4 +41,10 @@ export default {};
 </script>
 
 <style>
+.navbar {
+  background-color:  #19181B;
+}
+.navbar a {
+  color: #ececec;
+}
 </style>

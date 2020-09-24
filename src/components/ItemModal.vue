@@ -13,7 +13,7 @@
           <img :src="require('../assets/img/' + imgUrl)" class="img-fluid" v-if="imgUrl" />
         </div>
         <div class="modal-footer d-flex justify-content-center" v-if="url">
-          <a type="button" class="btn btn-secondary" :href="url" target="_blank" >Visiter</a>
+          <a type="button" class="btn button-modal" :href="url" target="_blank" >Visiter</a>
         </div>
       </div>
     </div>
@@ -25,3 +25,21 @@ export default {
   props: ["id", "content", "title", "imgUrl", "url"],
 };
 </script>
+
+<style>
+.modal-header {
+  background-color:#19181B;
+}
+.modal-content {
+  color: #ececec;
+  background-color: #222831;
+}
+.button-modal {
+  background-color:  #f2a365;
+  color: #222831;
+  font-weight: bold;
+}
+button.close, button.close:hover {
+  color:  #ececec;  
+}
+</style>
