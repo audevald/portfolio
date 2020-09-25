@@ -23,7 +23,7 @@ export default {};
       rgba(22, 20, 46, 0.5),
       rgba(22, 20, 46, 0.5)
     ),
-    url("../assets/img/background2.jpg");
+    url("../assets/img/background.jpg");
   background-size: auto, cover;
   background-attachment: fixed;
 }
