@@ -10,9 +10,9 @@
             <li>audeval.denis@gmail.com</li>
           </ul>
         </div>
-        <div class="col-12 col-sm-6 d-flex align-items-center justify-content-center">
-          <img src="../assets/img/linkedin.png" class="img-fluid logo" />
-          <img src="../assets/img/github.png" class="img-fluid logo" />
+        <div class="col-12 col-sm-6 d-flex align-items-center justify-content-around">
+          <a href="https://www.linkedin.com/in/denis-audeval-673429161/"><img src="../assets/img/linkedin.png" class="img-fluid logo" /></a>
+          <a href="https://github.com/audevald/"><img src="../assets/img/github.png" class="img-fluid logo" /></a>
         </div>
       </div>
     </div>
@@ -30,7 +30,7 @@ export default {};
   color: #30475e;
 }
 .logo {
-  width: 50px;
+  width: 30px;
 }
 .liste {
   list-style: none;
