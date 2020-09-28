@@ -41,4 +41,10 @@ body {
   color: #ececec;
   background-color: #222831;
 }
+.accueil, .about, .contact, .portfolio {
+  padding-top: 80px;
+}
+.logo {
+  width: 30px;
+}
 </style>

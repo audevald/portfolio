@@ -6,6 +6,14 @@
     <div class="text-light">
       <h1 class="text-center">Denis AUDEVAL</h1>
       <h2 class="text-center">Développeur Web FULL STACK</h2>
+      <div class="d-flex justify-content-around mt-4">
+        <a href="https://www.linkedin.com/in/denis-audeval-673429161/"
+          ><img src="../assets/img/linkedin.png" class="img-fluid logo"
+        /></a>
+        <a href="https://github.com/audevald/"
+          ><img src="../assets/img/github.png" class="img-fluid logo"
+        /></a>
+      </div>
     </div>
   </div>
 </template>
@@ -16,7 +24,6 @@ export default {};
 
 <style>
 .accueil {
-  padding-top: 80px;
   min-height: 100vh;
   background-image: linear-gradient(
       0deg,

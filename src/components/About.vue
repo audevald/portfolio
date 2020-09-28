@@ -24,8 +24,4 @@ export default {
 };
 </script>
 
-<style>
-.about {
-  padding-top: 80px;
-}
-</style>
+<style></style>

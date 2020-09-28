@@ -34,6 +34,5 @@ export default {
 }
 .card {
   background-color:  #19181B;
-  color:  #ececec;
 }
 </style>

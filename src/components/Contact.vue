@@ -4,7 +4,7 @@
       <div class="row">
         <div class="col-12 col-sm-6 d-flex align-items-center">
           <ul class="liste">
-            <li class="pb-2"><strong>Denis AUDEVAL</strong></li>
+            <li class="pb-2"><h5><strong>Denis AUDEVAL</strong></h5></li>
             <li>12 résidence la prairie</li>
             <li class="pb-2">31530 MONTAIGUT SUR SAVE</li>
             <li>audeval.denis@gmail.com</li>
@@ -25,12 +25,7 @@ export default {};
 
 <style>
 .contact {
-  padding-top: 80px;
   background-color: #19181B;
-  color: #30475e;
-}
-.logo {
-  width: 30px;
 }
 .liste {
   list-style: none;

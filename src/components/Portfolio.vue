@@ -35,7 +35,6 @@ export default {
 
 <style>
 .portfolio {
-  padding-top: 80px;
   padding-bottom: 80px;
 }
 </style>
