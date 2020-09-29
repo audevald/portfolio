@@ -18,10 +18,15 @@
         {
             "id": 4,
             "label": "PHP",
-            "percent": 80
+            "percent": 75
         },
         {
             "id": 5,
+            "label": "SQL",
+            "percent": 80
+        },
+        {
+            "id": 6,
             "label": "JAVA SE",
             "percent": 30
         }
@@ -46,6 +51,11 @@
             "id": 4,
             "label": "Bootstrap",
             "percent": 90
+        },
+        {
+            "id": 5,
+            "label": "Git",
+            "percent": 70
         }
     ]
 }
