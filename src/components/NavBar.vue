@@ -31,6 +31,9 @@
         <li class="nav-item">
           <a class="nav-link" href="#contact" v-smooth-scroll>Contact</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link" href="cv.pdf">Curriculum Vitae</a>
+        </li>
       </ul>
     </div>
   </nav>
