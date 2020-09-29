@@ -11,5 +11,11 @@
         "title": "Application Réservation",
         "description": "Une application de réservation de tables en ligne pour les restaurants.",
         "descriptionText": "Dans le cadre de ma formation, j'ai développé une application de type PWA (Progressive Web App) permèttant de passer des réservations pour les clients et de les gérer par le biais d'un back office. J'ai développé l'application 'from scratch' en PHP natif avec un framework personnel pour la gestion du CRUD."
+    },
+    {
+        "id": 3,
+        "title": "Photothèque Pierre Fabre",
+        "description": "Collaboration au développement durant mon stage chez STRATEGIA.",
+        "descriptionText": "Dans le cadre de mon stage au sein de l'entreprise STRATEGIA, j'ai collaboré au développement de la photothèque de produits pharmaceutiques pour les laboratoires Pierre Fabre. J'ai notament développé le module de paiement pour la souscription des abonnements, et également la partie administrateur (back office). Environnement de développement : API Platform, Symfony, ReactJS, Redux."
     }
 ]
