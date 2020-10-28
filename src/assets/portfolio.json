@@ -17,5 +17,11 @@
         "title": "Photothèque Pierre Fabre",
         "description": "Collaboration au développement durant mon stage chez STRATEGIA.",
         "descriptionText": "Dans le cadre de mon stage au sein de l'entreprise STRATEGIA, j'ai collaboré au développement de la photothèque de produits pharmaceutiques pour les laboratoires Pierre Fabre. J'ai notament développé le module de paiement pour la souscription des abonnements, et également la partie administrateur (back office). Environnement de développement : API Platform, Symfony, ReactJS, Redux."
+    },
+    {
+        "id": 4,
+        "title": "Refonte application réservation",
+        "description": "Refonte de l'application réservation, en cours de développement.",
+        "descriptionText": "Afin d'améliorer mes compétences avec le framework Symfony, j'ai effectué la refonte de l'application réservation que j'ai développé dans le cadre de ma formation en utilisant Symfony 5 pour le backoffice et VueJS pour le formulaire client."
     }
 ]
