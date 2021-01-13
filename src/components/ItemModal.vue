@@ -13,7 +13,7 @@
           <img :src="require('../assets/img/' + imgUrl)" class="img-fluid" v-if="imgUrl" />
         </div>
         <div class="modal-footer d-flex justify-content-center" v-if="url">
-          <a type="button" class="btn button-modal" :href="url" target="_blank" >{{ labelButton }}</a>
+          <a type="button" class="btn button-modal" :href="url" >{{ labelButton }}</a>
         </div>
       </div>
     </div>
