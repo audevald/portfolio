@@ -28,5 +28,13 @@
         "descriptionText": "Afin d'améliorer mes compétences avec le framework Symfony, j'ai effectué la refonte de l'application réservation que j'ai développé dans le cadre de ma formation en utilisant Symfony 5 pour le backoffice et VueJS pour le formulaire client.",
         "url": "https://github.com/audevald/Reservation_v2",
         "labelButton": "Voir le code sur Github"
+    },
+    {
+        "id": 5,
+        "title": "Écran de veille",
+        "description": "Un écran de veille codé en JavaScript.",
+        "descriptionText": "Un exercice de réalisation d'un écran de veille en JavaScript accompli dans le cadre de ma formation.",
+        "url": "https://audevald.fr/works/veille/veille.html",
+        "labelButton": "Visiter"
     }
 ]
