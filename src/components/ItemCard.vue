@@ -8,7 +8,7 @@
     </div>    
   </div>
   <div>
-    <ItemModal :id="idModal" :content="descriptionText" :title="title" :imgUrl="imgUrl" :url="url" />
+    <ItemModal :id="idModal" :content="descriptionText" :title="title" :imgUrl="imgUrl" :url="url" :labelButton="labelButton" />
   </div>
 </div>
   
@@ -17,7 +17,7 @@
 <script>
 import ItemModal from './ItemModal.vue'
 export default {
-  props: ["title", "description", "descriptionText", "url", "idModal", "imgUrl", "imgUrlSmall"],
+  props: ["title", "description", "descriptionText", "url", "idModal", "imgUrl", "imgUrlSmall", "labelButton"],
   components: {
     ItemModal
   }

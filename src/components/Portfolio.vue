@@ -11,6 +11,7 @@
           :imgUrl="work.imgUrl"
           :imgUrlSmall="work.imgUrlSmall"
           :descriptionText="work.descriptionText"
+          :labelButton="work.labelButton"
         />
       </div>
     </div>
